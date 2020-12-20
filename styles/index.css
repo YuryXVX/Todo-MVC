@@ -1,0 +1,16 @@
+:root {
+    --todo-complete-color: red;
+    --todo-border-color: black;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    margin-bottom: 10px;
+}
+
+ul > li {
+    padding: 20px;
+}
